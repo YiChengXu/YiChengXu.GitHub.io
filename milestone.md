@@ -14,14 +14,6 @@ header-img: "img/zhihu.jpg"
 ###代表作：
 
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
+- [《图像IO优化系列》](http://nscoder.cloud/blog/2017/09/21/image-io-question(1)/)
 
-- [《如何正确地练习写作》](http://www.jianshu.com/p/2621444b619d)
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-
-
-
-
-
+- [《iOS实现镜像效果》](http://nscoder.cloud/blog/2017/09/19/how-to-use-careplicatorlayer/)
