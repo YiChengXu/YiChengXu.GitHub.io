@@ -1,8 +1,8 @@
 # Site settings
-title: 读立写生
+title: 逍遥游
 header-img: "img/red.jpg"
 tagline: "cn"
-description: "许一城|读而立·写而生"
+description: "许一城|小智·大智"
 baseurl: ""
 url: "http://nscoder"
 
@@ -10,7 +10,7 @@ url: "http://nscoder"
 owner:
   name: " NSCoder"
   email: kingsamuel1993@gmail.com
-  bio: "写就是写的报酬"
+  bio: "做事即做人"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
